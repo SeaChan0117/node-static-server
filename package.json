@@ -1,0 +1,14 @@
+{
+  "name": "node-static-server",
+  "version": "1.0.0",
+  "main": "main.js",
+  "bin": {
+    "cs-serve": "bin/www.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^8.2.0",
+    "ejs": "^3.1.6",
+    "mime": "^2.5.2"
+  }
+}
